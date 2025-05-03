@@ -4,8 +4,8 @@
       <div class="logo" @click="router.push('/')">
         <img src="/ico/favicon.png" alt="logo" />
         <div class="name">
-          <n-text>热榜星球 Hot.pp93.com</n-text>
-          <n-text :depth="3">看尽全网热点，一站直达热门</n-text>
+          <n-text>热榜星球 hot.pp93.com</n-text>
+          <n-text :depth="3">全网热点，一站直达</n-text>
         </div>
       </div>
       <div class="current-time" v-if="store.timeData">
