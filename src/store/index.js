@@ -14,12 +14,12 @@ export const mainStore = defineStore("mainData", {
           order: 0,
           show: true,
         },
-        {
-          label: "微博",
-          name: "weibo",
-          order: 24,
-          show: true,
-        },
+//        {
+ //         label: "微博",
+ //         name: "weibo",
+//          order: 1,
+//          show: true,
+ //       },
         {
           label: "抖音",
           name: "douyin",
