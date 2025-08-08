@@ -17,7 +17,7 @@ export const mainStore = defineStore("mainData", {
         {
           label: "微博",
           name: "weibo",
-          order: 1,
+          order: 24,
           show: true,
         },
         {
